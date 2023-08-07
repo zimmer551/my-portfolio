@@ -6,10 +6,6 @@ Used Created-React-App for this project so to run locally
 - npm/yarn install
 - npm/yarn start
 
-<br/>
-### Seperate examples from the portfolio 
-**(for simple reference, to avoid mixup of other logics in the project)**
-* Auto adjusting scroll elements (working on)
 
 ### Architecture and some note on the application
 ```text
