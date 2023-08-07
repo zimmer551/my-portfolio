@@ -7,17 +7,6 @@ Used Created-React-App for this project so to run locally
 - npm/yarn start
 
 <br/>
-
-### Desktop/Mobile Preview :
-<img align="left" height="300" src="./desktop-preview.gif">
-<img height="300" src="./mobile-preview.gif">
-
-### Inspiration taken for some of the elements implemented
-[Loader animation](https://dribbble.com/shots/5942330-AVST-Loader-and-Blog-Animation) <br />
-[Technology and Timeline page](https://dribbble.com/shots/6151028-Hotel-Concept) <br />
-[Project description page (title header animation)](https://dribbble.com/shots/8712182-Go-green-Marketing-Site) <br />
-
-
 ### Seperate examples from the portfolio 
 **(for simple reference, to avoid mixup of other logics in the project)**
 * Auto adjusting scroll elements (working on)
